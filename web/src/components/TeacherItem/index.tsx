@@ -8,7 +8,7 @@ function TeacherItem() {
     return(
         <article className="teacher-item">
             <header>
-                <img src="https://blog.unicep.edu.br/wp-content/uploads/2019/07/qual-a-importancia-do-professor-na-formacao-do-aluno-935x614.jpg" alt="Professor"/>
+                <img src="https://s1.static.brasilescola.uol.com.br/be/conteudo/images/a-quimica-oferece-conhecimentos-muito-importantes-para-desenvolvimento-nossa-sociedade-562fd9fc8296e.jpg" alt="Professor"/>
                 <div>
                     <strong>Diego Fernandes</strong>
                     <span>Química</span>
