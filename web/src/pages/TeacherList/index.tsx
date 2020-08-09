@@ -6,6 +6,7 @@ import Input from '../../components/Input';
 import Select from '../../components/Select';
 
 import './styles.css';
+
 import api from '../../services/api';
 
 function TeacherList() {
